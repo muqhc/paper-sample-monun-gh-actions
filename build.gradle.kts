@@ -110,6 +110,9 @@ tasks {
             }
         }
     }
+
+    registerJar("sampleBundle",true)
+    registerJar("sampleClip",false)
 //
 //    fun registerJar(
 //        classifier: String,
